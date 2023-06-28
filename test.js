@@ -32,3 +32,4 @@ console.log(`
 	distance: ${arr[str1len][str2len]}
   similarity: %${((1 - (arr[str1len][str2len] / Math.max(str1len, str2len))) * 100)}
 `)
+console.log("A change")
